@@ -1,4 +1,4 @@
-# Fitcom
+# FitCom
 Is a workout tracking app which offers an easy way to create and store different workout plans. It tracks the weight and repetitions for every exercise in the plan. It also tracks body weight, total kg lifted and how many workouts got completed.
 
 ### Technologies/Frameworks:
